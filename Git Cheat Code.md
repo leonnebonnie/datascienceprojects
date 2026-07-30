@@ -23,7 +23,7 @@ git log
 # Link a local Repo to github
 git remote add origin <repo url>
 
-# uploade a code to github
+# upload a code to github
 git push -u origin main
 
 # upload the future changes 
